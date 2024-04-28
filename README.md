@@ -1,1 +1,13 @@
 # CS-350-Emereging-System-Architecture-Technology
+# Summarize the project and what problem it was solving.
+The project that I think was my best work in this course was the UART Milestone in week 3 of the course. The objective of the milestone was to control the red LED on the TI CC3220S Launchpad. We were required to build a state machine that would turn on the LED when the user types ON into the terminal and to turn OFF the LED when the user types in OFF using only one byte of RAM. 
+# What did you do particularly well?
+The requirements of the project were met as you can see in the video that is within this repository. I think that this code could easily be manipulated to be used in all sorts of other functionality by turning something on or off regardless of the restrictions on how many bytes of RAM you are limited to use. It is easy to read and the in line comments help to understand the code.
+# Where could you improve?
+Further understanding of the connection and communication between the board and the code would be where I could use improvement. I was able to follow along with the instructions for this project to accomplish the goal, but I don't think that I clearly understand how to make the two talk without the code that TI already has built into their example programs that we used. I feel like the code for these projects was still at an intermediate level, and there is so much more to learn in this regard.
+# What tools and resources are you adding to your support network?
+The tool that I used most throughout this course was the use of the commented lines on the header files from TI. They had a lot of information imbedded into the code that helped me understand what I was using to accomplish the requirement and why I was using that function. Anytime that I use a program that is from a company that already has some test programs built into the item, I will search through those files to help understand and utilize what has already been built to help with the product.
+# What skills from this project will be particularly transferrable to other projects and/or course work?
+Testing! I worked incrementally to build the each project throughout this course, but the constant testing and changing of the code was something that I have only had to do in one other course so far. I think that moving forward, this will be a skill that will be a necessity and will be easily transferrable to other work.
+# How did you make this project maintainable, readable, & adaptable?
+This project is maintainable, readable, and adaptable because I used object oriented programming to build the program. Working incrementally through each section of code and adding in line comments helps to understand what is the purpse of each line.
